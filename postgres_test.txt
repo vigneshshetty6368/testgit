@@ -1,0 +1,4 @@
+1	vignesh	shetty	kadikeri cross	vigneshshetty@gmail.com	100
+2	chandrakala	shetty	murdeshwar\n	chandu@gmail.com\n	200
+3	vignesh	brahmin	kadikeri cross	vigneshshetty@gmail.com	100
+4	Anushka	shet	Managaru	ansuhshka@qmail.com	250
